@@ -1,1 +1,1 @@
-# -js_practice_2
+# js_practice_2
